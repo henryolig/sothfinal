@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import { Card, CardContent, Container, Grid, Typography } from "@mui/material";
+import { Container, Grid, Typography } from "@mui/material";
 import { motion } from "framer-motion";
 import { TreePine, Palette, Car, CarFront, Flame, Phone, BicepsFlexed } from 'lucide-react';
 import Character from './Character';
